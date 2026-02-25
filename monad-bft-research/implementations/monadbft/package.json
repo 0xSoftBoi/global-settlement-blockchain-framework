@@ -1,0 +1,18 @@
+{
+  "name": "monadbft-implementation",
+  "version": "1.0.0",
+  "description": "MonadBFT consensus implementation with tail-fork prevention",
+  "main": "monadbft.js",
+  "scripts": {
+    "start": "node monadbft.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "monadbft",
+    "consensus",
+    "bft",
+    "blockchain"
+  ],
+  "author": "Global Settlement",
+  "license": "MIT"
+}
